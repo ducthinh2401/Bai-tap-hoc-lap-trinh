@@ -1,4 +1,4 @@
-// Cho biet tháng và nam, hãy in ra so ngày tuong ung có trong tháng dó. Chú ı tháng 2 c?a nam nhu?n có 29 ngày.
+// Cho biet thÃ¡ng vÃ  nam, hÃ£y in ra so ngÃ y tuong ung cÃ³ trong thÃ¡ng dÃ³. ChÃº Ã½ thÃ¡ng 2 c?a nam nhu?n cÃ³ 29 ngÃ y.
 
 
 
