@@ -1,8 +1,3 @@
-// Cho biet tháng và nam, hãy in ra so ngày tuong ung có trong tháng dó. Chú ý tháng 2 c?a nam nhu?n có 29 ngày.
-
-
-
-
 #include<iostream>
 #include<math.h>
 #include<iomanip>
@@ -31,3 +26,4 @@ int main() {
 		}
 	}
 }
+
