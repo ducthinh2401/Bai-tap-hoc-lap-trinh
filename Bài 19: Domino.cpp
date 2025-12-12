@@ -9,7 +9,7 @@ của bảng. Tìm số lượng domino tối đa thỏa mãn điều kiện tr�
 #include<iostream> 
 using namespace std; 
 int main() {
-  int M, N; 
+  long long M, N; 
   cin >> M >> N;
   if ( M % 2 == 0 ) {
      cout << M/2 * N;
