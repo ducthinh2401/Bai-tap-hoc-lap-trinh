@@ -1,3 +1,6 @@
+// Cho trước N ngày, hãy đổi N thành số năm, số tuần và số ngày. Biết rằng một năm có 365 ngày.
+
+
 #include<iostream>
 #include<math.h>
 #include<iomanip>
@@ -26,4 +29,5 @@ int main() {
 		}
 	}
 }
+
 
