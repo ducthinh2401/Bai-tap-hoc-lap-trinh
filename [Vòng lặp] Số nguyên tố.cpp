@@ -13,3 +13,5 @@ int main() {
 	if (sum == 2) cout << "YES";
 	else cout << "NO";
 }    
+
+// Cách 2: Duyệt từ 2 đến căn n
